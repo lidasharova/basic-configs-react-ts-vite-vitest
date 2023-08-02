@@ -1,0 +1,1 @@
+# basic-configs-react-ts-vite-vitest
